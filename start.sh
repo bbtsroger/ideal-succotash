@@ -1,3 +1,3 @@
-git clone https://github.com/bbtsroger/ideal-succotash.git
+git pull
 pip install -r requirements.txt
 python hello.py
